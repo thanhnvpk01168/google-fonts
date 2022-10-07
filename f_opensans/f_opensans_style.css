@@ -1,0 +1,113 @@
+/* 300 */
+@font-face {
+    font-family: "Open300";
+    src: local("Open300"), url(./source/OpenSans-Light.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open300Italic";
+    src: local("Open300Italic"), url(./source/OpenSans-LightItalic.ttf) format("truetype");
+}
+
+.fontOpen300 {
+    font-family: 'Open300' !important
+}
+
+.fontOpen300Italic {
+    font-family: 'Open300Italic' !important
+}
+
+/* 400 */
+@font-face {
+    font-family: "Open400";
+    src: local("Open400"), url(./source/OpenSans-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open400Italic";
+    src: local("Open400Italic"), url(./source/OpenSans-Italic.ttf) format("truetype");
+}
+
+.fontOpen400 {
+    font-family: 'Open400' !important
+}
+
+.fontOpen400Italic {
+    font-family: 'Open400Italic' !important
+}
+
+/* 500 */
+@font-face {
+    font-family: "Open500";
+    src: local("Open500"), url(./source/OpenSans-Medium.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open500Italic";
+    src: local("Open500Italic"), url(./source/OpenSans-MediumItalic.ttf) format("truetype");
+}
+
+.fontOpen500 {
+    font-family: 'Open500' !important
+}
+
+.fontMon500Italic {
+    font-family: 'Open500Italic' !important
+}
+
+/* 600 */
+@font-face {
+    font-family: "Open600";
+    src: local("Open600"), url(./source/OpenSans-SemiBold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open600Italic";
+    src: local("Open600Italic"), url(./source/OpenSans-SemiBoldItalic.ttf) format("truetype");
+}
+
+.fontOpen600 {
+    font-family: 'Open600' !important
+}
+
+.fontOpen600Italic {
+    font-family: 'Open600Italic' !important
+}
+
+/* 700 */
+@font-face {
+    font-family: "Open700";
+    src: local("Open700"), url(./source/OpenSans-Bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open700Italic";
+    src: local("Open700Italic"), url(./source/OpenSans-BoldItalic.ttf) format("truetype");
+}
+
+.fontOpen700 {
+    font-family: 'Open700' !important
+}
+
+.fontOpen700Italic {
+    font-family: 'Open700Italic' !important
+}
+
+/* 800 */
+@font-face {
+    font-family: "Open800";
+    src: local("Open800"), url(./source/OpenSans-ExtraBold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open800Italic";
+    src: local("Open800Italic"), url(./source/OpenSans-ExtraBoldItalic.ttf) format("truetype");
+}
+
+.fontOpen800 {
+    font-family: 'Open800' !important
+}
+
+.fontOpen800Italic {
+    font-family: 'Open800Italic' !important
+}
